@@ -7,7 +7,7 @@ This is a simple Node.js project utilizing Flow, a static type checker for JavaS
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/movie-rating-project.git
+   git clone https://github.com/Rasheek16/Node-flowJs.git
    ```
 
 2. Install dependencies:
@@ -90,7 +90,3 @@ npm run flow-remove-types
 ## Contributing
 
 Feel free to contribute by opening issues or submitting pull requests. Follow the [contribution guidelines](CONTRIBUTING.md) for more details.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
